@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    margin: auto;
+
+    font-weight: 1000;
+}
+
+.conteudo {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header {
+    background: rgb(14, 0, 51);
+    color: white;
+}
+
+.ligenigena {
+    background: linear-gradient(blue 0%, aqua 33%, aquamarine 66%, white 100%);
+    padding-top: 100px;
+    font-weight: bolder;
+}
+
+button {
+    margin: top 30px;
+
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#divdorodape{
+    position: fixed;
+    color: white;
+    background: black;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
